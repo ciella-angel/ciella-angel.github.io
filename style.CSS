@@ -1,0 +1,99 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: #D8E6ED;  
+ text-align: center; 
+
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #CE687B;
+  padding: 20px; 
+  font-family: 'Fjalla One', sans-serif;
+}
+
+h2{
+  color: #450612;
+  font-size: 30px; 
+  padding: 10px; 
+  font-family: 'Fjalla One', sans-serif;
+}
+p{ 
+  font-family: 'Ubuntu', sans-serif;
+  color: #0F0721;
+  padding-left: 10px; 
+  padding-right: 10px; 
+}
+
+#lower{
+  padding-top: 20px; 
+}
+
+/* STYLE IMAGES */
+.imagesp1{
+  border-radius: 50%; 
+  margin-left: 100px; 
+  margin-right: 50px;
+  margin-bottom: 20px; 
+  padding-bottom: 50px; 
+  padding-top: 50px; 
+  
+  
+}
+a{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#me{
+  margin: 20px; 
+  border: 6px solid #CE687B;
+}
+
+/* STYLE NAV BAR */
+ 
+
+ul{
+  background-color: #CE68AE; 
+  overflow: hidden;
+  padding: 1m; 
+  list-style-type: none;
+}
+li{
+  display: inline;
+}
+li a{
+  text-decoration: none;
+  color: #0F0721; 
+  padding: 1em; 
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5em; 
+}
+li a:hover{
+background-color: #F893D8; 
+
+}
+
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
+
+#line{
+  height: 20px; 
+  background-color:#F893D8; 
+}
+
+#input{
+  padding: 20px;
+  margin: 50px; 
+}
+button{
+  font-family: 'Fjalla One', sans-serif;
+  padding: 10px;
+  background-color: #F893D8;
+}
